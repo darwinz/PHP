@@ -69,7 +69,6 @@
     * [Mathstest](./tests/Maths/MathsTest.php)
     * [Projecteulertest](./tests/Maths/ProjectEulerTest.php)
   * Searches
-    * [Binarysearchtest](./tests/Searches/BinarySearchTest.php)
     * [Searchestest](./tests/Searches/SearchesTest.php)
   * Sorting
     * [Arraykeyssorttest](./tests/sorting/arrayKeysSortTest.php)
